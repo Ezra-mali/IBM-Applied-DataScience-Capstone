@@ -3,7 +3,7 @@
 ##  Project Summary
 
 This capstone project focuses on **building a machine learning system to predict whether SpaceX’s Falcon 9 rocket first stage will land successfully**.  
-SpaceX has disrupted the space industry by significantly lowering launch costs—charging **roughly $62 million per launch** compared to competitors’ **$165 million**—largely due to **first-stage reusability**.  
+SpaceX has disrupted the space industry by significantly lowering launch costs charging **roughly $62 million per launch** compared to competitors’ **$165 million**largely due to **first stage reusability**.  
 Accurately predicting landing success helps estimate launch costs more precisely, offering **strategic insights for aerospace companies competing with SpaceX**.
 
 ---
